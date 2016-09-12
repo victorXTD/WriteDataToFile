@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WriteDataToFile</string>
+    <string name="buttonwrite">ButtonWrite</string>
+    <string name="buttonread">ButtonRead</string>
+</resources>
